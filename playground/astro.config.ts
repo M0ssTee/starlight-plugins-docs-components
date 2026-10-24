@@ -13,7 +13,7 @@ export default defineConfig({
       sidebar: [
         {
           label: 'Examples',
-          items: [{ autogenerate: { "directory": "examples" } }],
+          items: [{ autogenerate: { directory: 'examples' } }],
         },
       ],
       social: [
