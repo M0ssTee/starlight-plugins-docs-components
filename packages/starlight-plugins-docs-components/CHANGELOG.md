@@ -1,5 +1,11 @@
 # @hideoo/starlight-plugins-docs-components
 
+## 0.5.1
+
+### Patch Changes
+
+- Update versions of starlight and astro to newest version outside the min. release age flag in pnpm-workspace.yaml.
+
 ## 0.5.0
 
 ### Minor Changes
